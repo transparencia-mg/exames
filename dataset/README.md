@@ -2,7 +2,7 @@ Conjunto de dados referentes a unidade de medida que representa a quantidade de 
 
 Termos relacionados: exames diagnósticos.
 
-Notas técnicas: só é possível apresentar informações para as unidades da rede Fhemig que já migraram para o sistema ERP Tasy.
+Notas técnicas: só é possível apresentar informações para as unidades da rede FHEMIG que já migraram para o sistema ERP Tasy.
 
 # Como participar
 
@@ -24,4 +24,5 @@ Além disso, fique a vontade para utilizar os demais canais oficiais de atendime
 - [Manifestações de Ouvidoria](https://www.ouvidoriageral.mg.gov.br/): Denúncia, Reclamação, Crítica, Elogio ou Sugestões.
 - [Pedido de Acesso à Informação](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Acesso às informações dos órgãos e entidades estaduais que não estejam publicamente disponíveis.
 - [Pedido de abertura de bases de dados](https://acessoainformacao.mg.gov.br/sistema/site/index.aspx): Solicitação de abertura de bases de dados dos órgãos e entidades que não estejam publicamente disponíveis.
+
 
