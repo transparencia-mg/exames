@@ -2,7 +2,7 @@ name: exames
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de exames realizados por unidade FHEMIG a partir de 2025.
+  - description: Dados de exames realizados por unidade FHEMIG divididos por grupo e subgrupo.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -32,5 +32,5 @@ resources:
           type: integer
           description: "Exames realizados."
     scheme: file
-    title: Exames realizados a partir de 2025
+    title: Exames realizados realizados por unidade FHEMIG
 title: Exames
