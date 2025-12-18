@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.035,
+  "time": 0.029,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados de exames realizados por unidade FHEMIG a partir de 2025.",
+        "description": "Dados de exames realizados por unidade FHEMIG divididos por grupo e subgrupo.",
         "dialect": {
           "delimiter": ";"
         },
@@ -50,7 +50,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Exames realizados a partir de 2025",
+        "title": "Exames realizados realizados por unidade FHEMIG",
         "stats": {
           "hash": "e453da2e939ae12e7d501ec65baeec04",
           "bytes": 60173,
@@ -58,7 +58,7 @@
           "rows": 639
         }
       },
-      "time": 0.024,
+      "time": 0.021,
       "scope": [
         "hash-count-error",
         "byte-count-error",
