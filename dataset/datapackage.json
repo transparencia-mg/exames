@@ -4,7 +4,7 @@
   "profile": "data-package",
   "resources": [
     {
-      "description": "Dados de exames realizados por unidade FHEMIG a partir de 2025.",
+      "description": "Dados de exames realizados por unidade FHEMIG divididos por grupo e subgrupo.",
       "dialect": {
         "delimiter": ";"
       },
@@ -49,7 +49,7 @@
         ]
       },
       "scheme": "file",
-      "title": "Exames realizados a partir de 2025"
+      "title": "Exames realizados realizados por unidade FHEMIG"
     }
   ],
   "title": "Exames"
