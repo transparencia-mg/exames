@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.029,
+  "time": 0.043,
   "errors": [],
   "tasks": [
     {
@@ -52,13 +52,13 @@
         "scheme": "file",
         "title": "Exames realizados realizados por unidade FHEMIG",
         "stats": {
-          "hash": "e453da2e939ae12e7d501ec65baeec04",
-          "bytes": 60173,
+          "hash": "8636e6e11822feb44348a13ea710e77a",
+          "bytes": 121437,
           "fields": 6,
-          "rows": 639
+          "rows": 1289
         }
       },
-      "time": 0.021,
+      "time": 0.034,
       "scope": [
         "hash-count-error",
         "byte-count-error",
